@@ -52,14 +52,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAKSHI060405&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
+</p>
