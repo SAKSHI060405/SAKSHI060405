@@ -53,5 +53,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=SAKSHI060405&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
+  <img  src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
 </p>
