@@ -45,7 +45,7 @@
 
 ## 📈 Contribution Graph
 
-[!(https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=algolia)]
+[![](https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=algolia)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAKSHI060405&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
