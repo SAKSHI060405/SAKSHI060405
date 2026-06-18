@@ -66,5 +66,5 @@
   <img  src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKSHI060405&theme=algolia"/>
 </p>
