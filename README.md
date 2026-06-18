@@ -76,11 +76,8 @@
 
 <hr>
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAKSHI060405&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-</hr>
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+</hr>
