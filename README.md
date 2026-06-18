@@ -45,12 +45,12 @@
 
 ## 📈 Contribution Graph
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=tokyonight)]
+[!(https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=algolia)]
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAKSHI060405&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAKSHI060405&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI060405&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SAKSHI060405&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAKSHI060405&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI060405&theme=algolia_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 📊 Profile Summary
