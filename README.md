@@ -45,7 +45,7 @@
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=algolia)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=algolia&hide_border=true&area=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAKSHI060405&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
@@ -55,11 +55,16 @@
 
 ## 📊 Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKSHI060405&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKSHI060405&theme=algolia)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKSHI060405&theme=algolia)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAKSHI060405&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/SAKSHI060405/SAKSHI060405/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
