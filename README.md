@@ -53,9 +53,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI060405&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-## 📊 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKSHI060405&theme=algolia)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKSHI060405&theme=algolia)
+## 📊 Profile Summar
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKSHI060405&theme=algolia" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKSHI060405&theme=algolia" />
@@ -64,6 +62,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKSHI060405&theme=algolia" />
 </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAKSHI060405&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
