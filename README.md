@@ -5,33 +5,54 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4000&lines=CODE+LEARN+BUILD+REPEAT!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=48&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sakshi+Pandey;Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Java+%7C+JavaScript+%7C+React;Always+Learning+Something+New!" />
 </h1>
 
 <h3 align="center">
-Computer Science Engineering Student 💻
+💻 Computer Science Engineering Student from India 🇮🇳
 </h3>
 
-<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SAKSHI060405&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<div align="center">
+---
 
-✨ Learning. Building. Growing into the engineer I aspire to be.
+# 👩‍💻 About Me
 
-🔭 Currently working on **Data Structures & Algorithms** and **Personal Projects**
+```java
+class SakshiPandey {
 
-🌱 Currently learning **MERN Stack, AI/ML & Problem Solving**
+    String education = "B.Tech CSE (2027)";
+    String currentFocus = "DSA + MERN Stack";
+    String learning = "React • Node.js • Express • MongoDB • AI/ML";
+    String goal = "Software Engineer";
 
-⚡ *I debug for hours just to realize the issue was a missing semicolon.*
+    String motto() {
+        return "Code. Learn. Build. Repeat.";
+    }
+}
+```
 
-</div>
+🌱 Currently learning **MERN Stack, AI/ML & Data Structures**
 
-<br>
+💻 Building projects to strengthen my development skills
 
-<div align="center">
+🎯 Preparing for **Software Engineering Internships & Placements**
+
+📚 I believe in learning by building real-world projects.
+
+⚡ Fun Fact:
+> I can spend hours debugging only to discover I missed a semicolon.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:sakshipandey130613@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sakshi-pandey-2050452b6/">
@@ -39,81 +60,185 @@ Computer Science Engineering Student 💻
 </a>
 
 <a href="https://github.com/SAKSHI060405">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+<div align="right">
+
+[![](https://visitcount.itsvg.in/api?id=SAKSHI060405&icon=8&color=9)](https://visitcount.itsvg.in)
+
 </div>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=48&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sakshi+Pandey;Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Java+%7C+JavaScript+%7C+React;Always+Learning+Something+New!" />
+</h1>
 
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-
----
-
-# 📈 Contribution Graph
+<h3 align="center">
+💻 Computer Science Engineering Student from India 🇮🇳
+</h3>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI060405&theme=github-compact&hide_border=true"/>
-
+<img src="https://komarev.com/ghpvc/?username=SAKSHI060405&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 👩‍💻 About Me
 
-<div align="center">
+```java
+class SakshiPandey {
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SAKSHI060405&show_icons=true&theme=algolia&hide_border=true"/>
+    String education = "B.Tech CSE (2027)";
+    String currentFocus = "DSA + MERN Stack";
+    String learning = "React • Node.js • Express • MongoDB • AI/ML";
+    String goal = "Software Engineer";
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SAKSHI060405&theme=algolia&hide_border=true"/>
+    String motto() {
+        return "Code. Learn. Build. Repeat.";
+    }
+}
+```
 
-</div>
+🌱 Currently learning **MERN Stack, AI/ML & Data Structures**
 
-<br>
+💻 Building projects to strengthen my development skills
 
-<div align="center">
+🎯 Preparing for **Software Engineering Internships & Placements**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI060405&layout=compact&theme=algolia&hide_border=true"/>
+📚 I believe in learning by building real-world projects.
 
-</div>
+⚡ Fun Fact:
+> I can spend hours debugging only to discover I missed a semicolon.
 
 ---
 
-# 📊 Profile Summary
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKSHI060405&theme=algolia"/>
+<a href="mailto:sakshipandey130613@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sakshi-pandey-2050452b6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SAKSHI060405">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
+# 🎯 Current Goals
+
+- 🚀 Crack a Software Engineering Internship
+- 💻 Master Data Structures & Algorithms
+- ⚛️ Build Full Stack Projects using the MERN Stack
+- 🤝 Contribute to Open Source
+- 📚 Learn System Design Fundamentals
+- 🧠 Solve LeetCode problems consistently
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKSHI060405&theme=algolia"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKSHI060405&theme=algolia"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 </p>
+
+- ⚛️ React.js
+- 🌐 Node.js & Express.js
+- 🍃 MongoDB
+- 🧩 JavaScript (ES6+)
+- 📖 Data Structures & Algorithms
+- 🤖 AI/ML Fundamentals
+
+---
+
+# 📌 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💰 Expense Tracker
+
+A responsive web application to manage daily expenses with an intuitive UI.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+⭐ *Add your repository link below*
+
+[Repository](https://github.com/SAKSHI060405/YOUR_PROJECT_NAME)
+
+</td>
+
+<td width="50%">
+
+### 🌦️ Weather App
+
+Real-time weather application using Weather API.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+- API
+
+⭐ *Add your repository link below*
+
+[Repository](https://github.com/SAKSHI060405/YOUR_PROJECT_NAME)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📝 To-Do App
+
+A simple productivity app to organize daily tasks.
+
+**Tech Stack**
+
+- React
+- CSS
+
+⭐ *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML Project
+
+A future AI project showcasing machine learning concepts.
+
+⭐ *Work in Progress*
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌟 Open Source Journey
+
+I'm excited to begin contributing to open-source projects and collaborating with developers worldwide.
+
+Always learning, always improving. 🌱
 
 ---
 
@@ -127,10 +252,29 @@ Computer Science Engineering Student 💻
 
 ---
 
-<div align="center">
+# 💡 Favorite Quote
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
 
-*"Consistency beats motivation."*
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
-</div>
+</p>
+
+---
+
+# 🌸 Thanks for Visiting!
+
+<p align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+I'm always open to learning, collaborating, and building meaningful projects.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
